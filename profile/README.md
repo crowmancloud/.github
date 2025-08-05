@@ -2,7 +2,7 @@ _Analyze your project's cloud readiness with CrowmanCloud, the comprehensive clo
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40crowmancloud-blue)](https://github.com/crowmancloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40crowmancloud-blue)](https://www.linkedin.com/company/crowmancloud)
-[![YouTube](https://img.shields.io/badge/YouTube-%40crowmancloud-blue)](https://www.youtube.com/c/crowmancloud)
+[![YouTube](https://img.shields.io/badge/YouTube-%40crowmancloud-blue)]([https://www.youtube.com/c/crowmancloud](https://www.youtube.com/@crowmancloud))
 [![Twitter](https://img.shields.io/badge/Twitter-%40crowmancloud-blue)](https://twitter.com/crowmancloud)
 [![Discord](https://img.shields.io/badge/Discord-%40crowmancloud-blue)](https://discord.gg/crowmancloud)
 
