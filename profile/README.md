@@ -1,4 +1,5 @@
-_Analyze your project's cloud readiness with CrowmanCloud, the comprehensive cloud migration assessment platform._
+<img src='banner.png' height="100%" width="100%">
+Analyze your project's cloud readiness with CrowmanCloud, the comprehensive cloud migration assessment platform._
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40crowmancloud-blue)](https://github.com/crowmancloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40crowmancloud-blue)](https://www.linkedin.com/company/crowmancloud)
